@@ -1,3 +1,4 @@
+Version 1.0 – Basic Student Skill Finder
 # Student Skill Finder
 
 Student Skill Finder is a Python-based terminal application that helps students find peers based on skills such as programming, design, and more.
