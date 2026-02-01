@@ -1,2 +1,17 @@
-# student-skill-finder-python
-A simple Python project that allows students to add their skills and search for other students by skill. Built using Python functions and file handling.
+# Student Skill Finder
+
+Student Skill Finder is a Python-based terminal application that helps students find peers based on skills such as programming, design, and more.
+
+## Features
+- Add student details and skills
+- Search students by skill
+- View all students
+- File-based data storage
+
+## Technologies Used
+- Python
+- File Handling
+
+## How to Run
+1. Clone or download the repository
+2. Run `main.py` using Python
